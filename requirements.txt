@@ -1,0 +1,14 @@
+# Core AI and workflow
+langchain>=0.2.0
+langgraph>=0.0.45
+langchain-ollama>=0.1.0
+langchain-community>=0.2.0
+
+# Search (optional, if you want SerpAPI instead of mock search)
+google-search-results>=2.4.2
+
+# Web UI
+streamlit>=1.36.0
+
+# PDF generation
+reportlab>=4.2.2
